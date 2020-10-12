@@ -1,5 +1,5 @@
 
-# DPGAnalysis-SiPixelTools
+# MyPixelTools
 
 Prepare your working directory with whatever CMSSW version you want to use (branch "master" is currently on 94X)
 
